@@ -1,4 +1,4 @@
-import 'package:flutter/foundation.dart';
+// Removed unused foundation import
 
 /// Direction of a crossword clue.
 enum ClueDirection { across, down }

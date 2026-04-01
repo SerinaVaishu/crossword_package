@@ -1,4 +1,4 @@
-library crossword_puzzle;
+// crossword_puzzle library
 
 export 'src/models/crossword_model.dart';
 export 'src/models/crossword_style.dart';

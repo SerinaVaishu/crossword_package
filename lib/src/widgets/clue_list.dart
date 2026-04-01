@@ -147,7 +147,7 @@ class _ClueCategoryWidget extends StatelessWidget {
               ),
             ),
           );
-        }).toList(),
+        }),
       ],
     );
   }
