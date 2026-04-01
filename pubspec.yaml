@@ -1,6 +1,6 @@
 name: crossword_puzzle
 description: A highly customizable and dynamic crossword puzzle package for Flutter. Build complex crossword grids with ease, supporting clues, hints, and custom styling.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/SerinaVaishu/crossword_package
 repository: https://github.com/SerinaVaishu/crossword_package
 issue_tracker: https://github.com/SerinaVaishu/crossword_package/issues
